@@ -119,7 +119,7 @@ public class ArrayOrder {
         list2.next = new ListNode(4);
         list2.next.next = new ListNode(6);
         LinkedList queue = new LinkedList();
-       /* new ArrayOrder().reOrderArray(array);
+       /*
         for(int i : array){
             System.out.println(i);
         }*/
